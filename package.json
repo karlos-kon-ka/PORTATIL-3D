@@ -2,13 +2,19 @@
   "name": "portatil",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://karlos-kon-ka,github.io/PORTATIL-3D/build",
   "dependencies": {
+    "@react-three/drei": "^9.108.1",
+    "@react-three/fiber": "^8.16.8",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@types/three": "^0.166.0",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "three": "^0.166.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
